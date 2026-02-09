@@ -1,5 +1,1 @@
-My favourite programming languages:
-* Python
-* Java
-* C++
-* Javascript
+Programming Fundamentals Fall 2025
