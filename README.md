@@ -10,7 +10,7 @@ Welcome to my **Awesome Project**! Here, I will show you some *Markdown formatti
 - Fast performance
 - Cross-platform
 
-~~This feature is deprecated~~
+~~ This feature is deprecated ~~
 
 ## How to Use
 
